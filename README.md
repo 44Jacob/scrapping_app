@@ -3,13 +3,13 @@
 Overview
 This project involves scraping data from various sources related to Mars, including Mars news articles and Mars weather data. The data is extracted using automated browsing techniques with Splinter and Beautiful Soup, and then analyzed to answer specific questions.
 
-Part 1: Scrape Titles and Preview Text from Mars News (40 points)
+Part 1: Scrape Titles and Preview Text from Mars News
 
 Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 The titles and preview text of the news articles were scraped and extracted.
 The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries.
 
-Part 2: Scrape and Analyze Mars Weather Data (60 points)
+Part 2: Scrape and Analyze Mars Weather Data 
 
 The HTML table was extracted into a Pandas DataFrame using either Pandas or Splinter and Beautiful Soup. The columns have the correct headings and data types.
 
